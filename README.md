@@ -16,7 +16,6 @@
     alt="Woman programming"
     style="border-radius: 20px;"
   />
-</div>
 
 ## 💜 About Me
 
@@ -25,7 +24,7 @@ Hi! I'm **Romaissae**, a passionate beginner web developer.
 - 🎓 Learning Web Development
 - 🚀 Improving my skills every day
 - ✨ Love creating beautiful websites
-
+</div>
 ---
 
 ## 💻 My Tech Stack
