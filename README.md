@@ -9,14 +9,6 @@
 
 ---
 
-<div align="center">
-  <img
-    src="https://img.magnific.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg"
-    width="380"
-    alt="Woman programming"
-    style="border-radius: 20px;"
-  />
-
 ## 💜 About Me
 
 Hi! I'm **Romaissae**, a passionate beginner web developer.
@@ -32,18 +24,6 @@ Hi! I'm **Romaissae**, a passionate beginner web developer.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=romaissaeoube&show_icons=true&theme=tokyonight&hide_border=true&title_color=818CF8&icon_color=6366F1"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaissaeoube&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
