@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Romaissae</h1>
 
-<!--
-**romaissaeoube/romaissaeoube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Future Web Developer | Learning Every Day 🚀
+</h3>
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm learning Web Development.
+- 💻 Interested in Front-End Development.
+- 🎯 Improving my skills step by step.
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Bootstrap
+- Git & GitHub
+
+## 📫 Contact Me
+
+- Email: your-email
+- LinkedIn: your-link
