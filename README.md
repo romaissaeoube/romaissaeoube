@@ -33,8 +33,12 @@ Hi! I'm **Romaissae**, a passionate beginner web developer.
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/romaissae-oub">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="mailto:oubelloucheromaissae@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-F15BB5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
