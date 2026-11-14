@@ -1,31 +1,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,50:F15BB5,100:00BBF9&height=200&section=header&text=Romaissae%20Oubellouche&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Future%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=200&section=header&text=Romaissae%20Oubellouche&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=F15BB5&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Learning+Web+Development+%F0%9F%92%BB;Building+my+future+step+by+step+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Learning+and+Growing+Every+Day+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### 🌸 About Me
+## 💜 About Me
 
 Hi! I'm **Romaissae**, a passionate beginner web developer.
 
 - 🎓 Learning Web Development
-- 💻 Interested in Front-End Development
-- 🌱 Currently learning React & JavaScript
 - 🚀 Improving my skills every day
 - ✨ Love creating beautiful websites
 
-<br clear="right"/>
-
 ---
 
-### 💜 My Tech Stack
+## 💻 My Tech Stack
 
 <div align="center">
 
@@ -35,34 +29,7 @@ Hi! I'm **Romaissae**, a passionate beginner web developer.
 
 ---
 
-### 🚀 My GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=romaissaeoube&show_icons=true&theme=midnight-purple&hide_border=true&title_color=F15BB5&icon_color=9B5DE5"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaissaeoube&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=romaissaeoube&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-### 🌷 My Projects
-
-<div align="center">
-
-| Project | Description | Technology |
-|---|---|---|
-| Gestion Patients | Patient management application | React |
-| My Web Projects | Web development exercises | HTML, CSS, JS |
-
-</div>
-
----
-
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -76,10 +43,12 @@ Hi! I'm **Romaissae**, a passionate beginner web developer.
 
 </div>
 
+---
+
 <div align="center">
 
-### ✨ "Dream big, code bigger!" ✨
+### 💙 Keep Learning, Keep Building! 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F15BB5,50:9B5DE5,100:00BBF9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=100&section=footer" width="100%"/>
 
 </div>
